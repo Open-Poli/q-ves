@@ -1,10 +1,16 @@
-# Q-ves
-Aplicación mobile desarrollada en Android.
-Atias, Simón-Barbieri, Martin-Blum, Damian-Cristobo, Magali-Fernandez, Pedro
+## 🚀 openPoli - Politécnico Modelo (https://open.ipm.edu.ar)
 
-## Descripción
+## 📝 Q-ves
 
-Juego basado en el proyecto [Q’ ves](https://lasotrasvoces.org.ar/blog/2018/02/27/q-ves-un-juego-sobre-estereotipos-de-genero/) de la empresa Las Otras Voces. El desarrollo de la aplicación entera se encuentra en la carpeta llamada "App" dentro de la rama *main*. Fue desarrollada utilizando [Android Studio](https://developer.android.com/studio).
+Aplicación mobile desarrollada en Android. Juego basado en el proyecto [Q’ ves](https://lasotrasvoces.org.ar/blog/2018/02/27/q-ves-un-juego-sobre-estereotipos-de-genero/) de la empresa Las Otras Voces. El desarrollo de la aplicación entera se encuentra en la carpeta llamada "App" dentro de la rama *main*. Fue desarrollada utilizando [Android Studio](https://developer.android.com/studio).
+
+## 🤝 Equipo
+
+- Atias, Simón
+- Barbieri, Martin
+- Blum, Damian
+- Cristobo, Magali
+- Fernandez, Pedro
 
 ## Deployment
 
