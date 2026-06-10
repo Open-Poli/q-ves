@@ -2,7 +2,7 @@
 
 ## 📝 Q-ves
 
-Aplicación mobile desarrollada en Android. Juego basado en el proyecto [Q’ ves](https://lasotrasvoces.org.ar/blog/2018/02/27/q-ves-un-juego-sobre-estereotipos-de-genero/) de la empresa Las Otras Voces. El desarrollo de la aplicación entera se encuentra en la carpeta llamada "App" dentro de la rama *main*. Fue desarrollada utilizando [Android Studio](https://developer.android.com/studio).
+Aplicación mobile desarrollada en Android. Juego basado en el proyecto [Q’ ves](https://lasotrasvoces.org.ar/blog/2018/02/27/q-ves-un-juego-sobre-estereotipos-de-genero/) de la organización Las Otras Voces. El desarrollo de la aplicación entera se encuentra en la carpeta llamada "App" dentro de la rama *main*. Fue desarrollada utilizando [Android Studio](https://developer.android.com/studio).
 
 ## 🤝 Equipo
 
